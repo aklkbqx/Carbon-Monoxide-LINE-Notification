@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp"
+    },
+    "cmake.ignoreCMakeListsMissing": true
+}

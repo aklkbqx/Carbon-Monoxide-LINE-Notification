@@ -1,7 +1,7 @@
-#define LINE_TOKEN "AOetYQRQXZgpKkkvoGoBLe9mOPyGE61s14vqfoIkSWI"
-#define BLYNK_AUTH_TOKEN "nhpufa5_n0ktq3Uk3M6hEpnlef_nMi-O"
-#define BLYNK_TEMPLATE_ID "TMPL6yC8OwH0v"
-#define BLYNK_TEMPLATE_NAME "CarbonMonoxide"
+#define LINE_TOKEN ""
+#define BLYNK_AUTH_TOKEN ""
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
 
 #define MQ_7 34
 

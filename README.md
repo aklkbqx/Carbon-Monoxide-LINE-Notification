@@ -1,6 +1,6 @@
 <h1>CARBON MONOXIDE ESP32 MQ7 LCD LINE NOTIFICATION</h1>
 
-<h4>Stack</h4>h4>
+<h4>Stack</h4>
 <ul>
   <li>PlatformIO</li>
   <li>Arduino Framework</li>
